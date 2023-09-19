@@ -1,0 +1,7 @@
+2023-09-17 01:31:02,850 ERROR Error connecting to the server: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials z7-20020a7bc7c7000000b00402bda974ddsm8514957wmk.6 - gsmtp')
+2023-09-17 01:31:02,903 ERROR Error while sending the email (530, b'5.7.0 Authentication Required. Learn more at\n5.7.0  https://support.google.com/mail/?p=WantAuthError z7-20020a7bc7c7000000b00402bda974ddsm8514957wmk.6 - gsmtp', 'yehor.dudnik@gmail.com')
+2023-09-17 01:31:28,264 ERROR Error connecting to the server: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials t7-20020a1c7707000000b003fedcd02e2asm8489131wmi.35 - gsmtp')
+2023-09-17 01:31:28,324 ERROR Error while sending the email (530, b'5.7.0 Authentication Required. Learn more at\n5.7.0  https://support.google.com/mail/?p=WantAuthError t7-20020a1c7707000000b003fedcd02e2asm8489131wmi.35 - gsmtp', 'yehor.dudnik@gmail.com')
+2023-09-17 01:42:59,480 INFO The email has been successfully sent
+2023-09-17 01:46:02,180 INFO The email has been successfully sent
+2023-09-17 01:54:02,490 INFO The email has been successfully sent
